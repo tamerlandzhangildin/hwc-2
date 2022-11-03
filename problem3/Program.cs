@@ -1,5 +1,5 @@
 ﻿Console.Write("Enter day number - ");
-string sa = Console.Readline();
+string sa = Console.ReadLine();
 int a = int.Parse(sa);
 
 if (a ==6 && a==7){
