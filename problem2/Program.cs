@@ -19,7 +19,7 @@ else
             }
             else
             {
-                coef = *10;
+                coef *= 10;
             }
         }
         Console.WriteLine($"The third number is { (n  / coef) % 10 }");
