@@ -1,4 +1,4 @@
-﻿int n = int.Parse(Console.Readline()); 
+﻿int n = int.Parse(Console.ReadLine()); 
 
 if (n < 100)
 {
